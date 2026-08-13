@@ -47,13 +47,7 @@ Dependiendo del avance de la materia, el repositorio puede incluir:
 Para obtener una copia local del repositorio:
 
 ```bash
-git clone https://github.com/Erlangelxd/Auxiliatura-de-programacion-II-.git
-```
-
-Ingresar al directorio:
-
-```bash
-cd Auxiliatura-de-programacion-II-
+git clone https://github.com/Erlangelxd/Programacion-II-PRG-211.git
 ```
 
 ---
@@ -101,5 +95,3 @@ Este repositorio tiene fines exclusivamente educativos y académicos. El materia
 ---
 
 ⭐ Si este repositorio te ayuda en tu aprendizaje, considera darle una estrella.
-# Programacion-II-PRG-211
-# Programacion-II-PRG-211
