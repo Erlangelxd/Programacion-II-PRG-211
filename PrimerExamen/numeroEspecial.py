@@ -18,7 +18,7 @@ class NumeroEspecial:
             return 0
 
 
-def main():
+if __name__ == "__main__":
     x = int(input("X: "))
     y = int(input("Y: "))
     if y > x:
@@ -28,5 +28,3 @@ def main():
                 print(f"CAPICUA {i}")
             elif numero.es_primo() == 1:
                 print(f"PRIMO {i}")
-
-main()
