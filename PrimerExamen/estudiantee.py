@@ -23,8 +23,6 @@ class Estudiante:
             print("El es mayor de edad")
 
 
-
-
 est1 = Estudiante()
 est2 = Estudiante()
 est1.leer()

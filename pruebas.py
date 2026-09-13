@@ -1,3 +1,5 @@
-nombre = "02-08-2005"
+from datetime import date
 
-print(int(nombre[6:10]))
+fecha = date(2005, 8, 2)
+
+print(type(fecha))
