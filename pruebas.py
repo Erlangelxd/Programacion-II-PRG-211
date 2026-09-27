@@ -1,5 +1,4 @@
-from datetime import date
+"""""
+Crear una clase padre llamada 
 
-fecha = date(2005, 8, 2)
-
-print(type(fecha))
+"""""
