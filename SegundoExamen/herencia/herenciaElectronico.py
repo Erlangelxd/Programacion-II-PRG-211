@@ -54,3 +54,6 @@ lic1.leer()
 c1.mostrar()
 tv1.mostrar()
 lic1.mostrar()
+
+
+
