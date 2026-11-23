@@ -16,7 +16,5 @@ def asistencias():
             contador += 1
         print(f"Asistieron {contador} personas")
 
-añadir_en_lista()
-añadir_en_lista()
 
 asistencias()
