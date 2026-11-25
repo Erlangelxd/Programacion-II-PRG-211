@@ -1,0 +1,3 @@
+Torrez,Juan,20,70
+Apaza,Lizet,18,50
+Luis,Mamani,21,65

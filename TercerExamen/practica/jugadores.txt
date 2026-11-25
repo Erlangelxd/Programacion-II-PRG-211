@@ -1,0 +1,4 @@
+Apellido,Nombre,edad,peso
+Sanchez,Alvaro,21,65
+Castro,Noemi,19,80
+Beltran,Esteban,18,60
